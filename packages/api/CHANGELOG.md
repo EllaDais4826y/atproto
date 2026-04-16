@@ -1,5 +1,11 @@
 # @atproto/api
 
+## 0.19.10
+
+### Patch Changes
+
+- [#4866](https://github.com/bluesky-social/atproto/pull/4866) [`750cfe9`](https://github.com/bluesky-social/atproto/commit/750cfe9020a11c5de1ce6b2e3647d52939a3e284) Thanks [@ds-boyce](https://github.com/ds-boyce)! - Add description fields
+
 ## 0.19.9
 
 ### Patch Changes
