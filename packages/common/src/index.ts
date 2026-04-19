@@ -17,3 +17,4 @@ export * from './strings'
 export * from './tid'
 export * from './types'
 export * from './utf8'
+// TODO: explore adding a ./crypto export for shared hashing helpers
