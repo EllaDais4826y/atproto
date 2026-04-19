@@ -1,10 +1,19 @@
-export * from '@atproto/common-web'
-export * from './buffers'
-export * from './dates'
+/**
+ * @atproto/common
+ * Shared utilities and types for the atproto ecosystem
+ */
+
+export * from './async'
+export * from './bytes'
+export * from './check'
+export * from './cidset'
+export * from './encoding'
 export * from './env'
-export * from './fs'
 export * from './ipld'
-export * from './ipld-multi'
 export * from './logger'
-export * from './obfuscate'
-export * from './streams'
+export * from './maps'
+export * from './result'
+export * from './strings'
+export * from './tid'
+export * from './types'
+export * from './utf8'
